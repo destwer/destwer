@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in:<br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data
+Hi there! 👋 I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in: <br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data <br><br>
 
 
 ## 🌐 Socials:
