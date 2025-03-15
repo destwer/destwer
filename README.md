@@ -1,5 +1,6 @@
+![Banner](https://cdn.myanimelist.net/s/common/uploaded_files/1686741473-f4d2e068cf01678b18bd93040f914ae4.jpeg)<br>
 # About Me:
-Hi there! 👋 I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in: <br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data <br><br>
+Hi there! 👋 I'm Destwer <br> I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in: <br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data <br><br>
 
 
 ## 🌐 Socials:
@@ -17,8 +18,9 @@ Hi there! 👋 I'm a B.Tech CSE student passionate about full-stack development,
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=destwer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=destwer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=destwer&theme=radical&hide_border=false)<br/>
+![Destwer Github stats](https://github-readme-stats.vercel.app/api?username=destwer&show_icon=true&theme=radical)<br>
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=destwer&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=destwer&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=destwer&color=blue)
