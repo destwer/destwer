@@ -1,6 +1,6 @@
 ![Banner](https://cdn.myanimelist.net/s/common/uploaded_files/1686741473-f4d2e068cf01678b18bd93040f914ae4.jpeg)<br>
 # About Me:
-Hi there! 👋 I'm Destwer <br> I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in: <br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data <br><br>
+Hi there! 👋 I'm Divyanshu Kumar, <br> Pursuing B.Tech CSE and passionate about full-stack development, AI/ML, and databases. I specialize in: <br><br>🚀 Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br>🛢 Databases: MySQL with Entity Framework Core<br>🔐 Authentication: JWT-based authentication<br>📦 Deployment: Azure & Render (with Docker)<br>🤖 Machine Learning: Exploring AI/ML with Python<br>📊 SQL & Data Analysis: Querying and analyzing structured data <br><br>
 
 
 ## 🌐 Socials:
